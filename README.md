@@ -5,7 +5,7 @@ Business rules are documented there; MongoDB document shapes are in `DATA_MODEL.
 
 ## Requirements
 
-- Python 3.10 or newer
+- Python 3.11 or newer
 - MongoDB 6.0 or newer (MongoDB 7.0 recommended)
 - Dependencies from `requirements.txt`
 
